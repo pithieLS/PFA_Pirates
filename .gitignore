@@ -554,3 +554,13 @@ Content/Underwater_Ruins/VFX/Textures/T_PerlinRough.uasset
 Content/Underwater_Ruins/VFX/Textures/T_SmokeMask.uasset
 Content/Underwater_Ruins/VFX/Textures/T_VFX_Noise_5.uasset
 Content/Underwater_Ruins/VFX/Textures/T_WorlyNoise_1.uasset
+Content/Characters/TPS/Animations/NoWeapon/ThirdPersonRun.uasset
+Content/Characters/TPS/Animations/NoWeapon/ThirdPersonWalk.uasset
+Content/Characters/TPS/Animations/ThirdPerson_IdleRun_2D.uasset
+Content/Characters/TPS/Animations/ThirdPersonIdle.uasset
+Content/Characters/TPS/Animations/ThirdPersonJump_End.uasset
+Content/Characters/TPS/Animations/ThirdPersonJump_Loop.uasset
+Content/Characters/TPS/Animations/ThirdPersonJump_Start.uasset
+Content/Characters/TPS/Animations/ThirdPersonRun.uasset
+Content/Characters/TPS/Animations/ThirdPersonWalk.uasset
+Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset
